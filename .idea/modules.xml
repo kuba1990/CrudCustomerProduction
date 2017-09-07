@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Crud_Tomek.iml" filepath="$PROJECT_DIR$/Crud_Tomek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Crud_Tomek_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Crud_Tomek_main.iml" group="Crud_Tomek" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Crud_Tomek_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Crud_Tomek_test.iml" group="Crud_Tomek" />
+    </modules>
+  </component>
+</project>
